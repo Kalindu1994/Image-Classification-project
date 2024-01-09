@@ -15,7 +15,9 @@ Scalability: The project is designed for scalability, making it applicable to a 
 Tech Stack:
 
 Python Libraries: ImageAI
+
 Deep Learning Model: ResNet
+
 Learning Experience:
 
 This project provided an immersive experience in working with pre-trained deep learning models and understanding the nuances of image classification. From model selection to fine-tuning, the journey illuminated the possibilities and challenges within the realm of computer vision.
